@@ -1,7 +1,5 @@
 # Created by https://www.gitignore.io/api/code,unity
 # Edit at https://www.gitignore.io/?templates=code,unity
-### Docs ###
-docs/
 
 ### Code ###
 .vscode/
